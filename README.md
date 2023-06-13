@@ -159,4 +159,4 @@ Help Topics will help streamline your end-user’s help desk experience to ensur
 
 <br />
 <br />
-<p align="right"> Next up, <a href="https://github.com/CharlesPoin/ticket-lifecycle"
+<p align="right"> Next up, <a href="https://github.com/CharlesPoin/-ticket-lifecycle"
